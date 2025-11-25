@@ -1,0 +1,6 @@
+python-dotenv
+azure-identity
+azure-ai-projects
+agent-framework-azure-ai
+fastapi
+uvicorn
