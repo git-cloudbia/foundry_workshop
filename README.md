@@ -2,6 +2,12 @@
 
 Este proyecto implementa un Agente Financiero impulsado por IA que utiliza Azure AI Foundry y Azure AI Search para proporcionar información financiera precisa y contextualizada. El agente está diseñado para actuar como un Analista Financiero Senior, extrayendo datos de documentos corporativos indexados.
 
+> Referencias: 
+> - Juan Ignacio Etcheberry Mason https://www.linkedin.com/in/juan-ignacio-etcheberry-mason/
+> - Microsoft Agent Framework Quick-Start Guide: https://learn.microsoft.com/en-us/agent-framework/tutorials/quick-start?pivots=programming-language-python
+> - Microsoft Foundry SDKs and Endpoints: https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/sdk-overview?view=foundry-classic&pivots=programming-language-python
+> - Azure AI Agent Examples: https://github.com/microsoft/agent-framework/blob/main/python/samples/getting_started/agents/azure_ai/README.md
+
 ## Características
 
 *   **Búsqueda Semántica (RAG):** Utiliza Azure AI Search para recuperar documentos relevantes basados en consultas en lenguaje natural.
